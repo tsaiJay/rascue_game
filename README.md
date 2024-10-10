@@ -3,7 +3,9 @@ This is a simple game developed with Scratch around 2018. The story is about a c
 
 Help Xiao Hei accumulate escape energy while avoiding the pursuit of the Grim Reaper. Score over 100 points to win.
 
-[!image](./pics/pic0.png)
-[!image](./pics/pic1.png)
-[!image](./pics/pic2.png)
-[!image](./pics/pic3.png)
+<div align="center">
+	<img src="/pics/pic0.png" alt="Editor" width="800">
+	<img src="/pics/pic1.png" alt="Editor" width="800">
+	<img src="/pics/pic2.png" alt="Editor" width="800">
+	<img src="/pics/pic3.png" alt="Editor" width="800">
+</div>
